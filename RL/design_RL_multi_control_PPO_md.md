@@ -1,4 +1,4 @@
-# Design "mode select" reinforcement learing
+# Design "mode select" reinforcement learning
 # Initialize
 
 ```matlab:Code
